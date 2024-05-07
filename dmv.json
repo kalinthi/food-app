@@ -1,0 +1,12 @@
+{
+  "Foods":
+  [
+    {"foodName":"HoneyMoon Chicken","foodAddress":"4201 Georgia Ave NW, Washington, DC 20011","foodDescription":"Michelin Bib Chicken in DC. Tasty and delicious","foodImage":"https://github.com/kalinthi/food-app/blob/main/hmc.png?raw=true","foodSite":"https://www.honeymoonchicken.com"}, 
+    {"foodName":"Mon Ami Gabi","foodAddress":"7239 Woodmont Ave, Bethesda, MD 20814","foodDescription":"Fancy French fare. Perfect for date night.","foodImage":"https://github.com/kalinthi/food-app/blob/main/french.png?raw=true","foodSite":"https://www.monamigabi.com"}, 
+    {"foodName":"Genki Izakaya","foodAddress":"9508 Fairfax Blvd, Fairfax, VA 22031","foodDescription":"Casual Japanese fare. Sushi, ramen, and other Japanese specialities. Beautiful bar for a night out or a lovely date.","foodImage":"https://github.com/kalinthi/food-app/blob/main/genki.png?raw=true","foodSite":"https://www.genkiizakaya.com"}
+    {"foodName":"HOJOKBAN NYC","foodAddress":"128 Madison Ave, New York, NY 10016","foodDescription":"Korean soul food. Reservations recommended.","foodImage":"https://github.com/kalinthi/food-app/blob/main/hojok.png?raw=true","foodSite":"https://www.hojokbannyc.com"}
+    {"foodName":"Mei Lai Wah","foodAddress":"62 Bayard St, New York, NY 10013","foodDescription":"Popular pineapple pork Chinese buns! Cheap and delicious.","foodImage":"https://github.com/kalinthi/food-app/blob/main/mei.png?raw=true","foodSite":"https://www.meilaiwah.com"}
+    {"foodName":"Da Andrea","foodAddress":"35 W 13th St, New York, NY 10011","foodDescription":"Yummy Italian fare. Romantic and beautifully decorated","foodImage":"https://github.com/kalinthi/food-app/blob/main/da.png?raw=true","foodSite":"https://daandreanyc.com"}
+    {"foodName":"Moms Touch","foodAddress":"12 Mugyo-ro, Jung-gu, Seoul, South Korea","foodDescription":"MOM'S TOUCH Korea No.1 Burger & Chicken Brand.","foodImage":"https://github.com/kalinthi/food-app/blob/main/momstouch.jpg?raw=true","foodSite":"https://www.momstouchglobal.com"}],
+  "Status":"OK"
+}
